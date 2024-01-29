@@ -14,11 +14,13 @@ main {
   gap: 5px; /* 하위 요소들을 떨어뜨리는 거다. */
 }
 
-.board-block {
+.board-column {
   display: flex;
   justify-content: center;
   align-items: center;
   border: 2px solid #d3d6da;
   width: 60px;
   height: 60px;
+  font-size: 30px;
+  font-weight: bold;
 }

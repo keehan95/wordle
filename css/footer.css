@@ -14,7 +14,7 @@ footer {
   gap: 5px;
 }
 
-.keyboard-block {
+.keyboard-column {
   display: flex;
   justify-content: center;
   align-items: center;
