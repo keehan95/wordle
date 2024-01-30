@@ -90,6 +90,7 @@ function appStart() {
     if (index !== 0) index--;
   };
 
+  // const로도 함수를 선언할 수 있다고 했다.
   const handleKeydown = (event) => {
     // console.log("키가 눌렸습니다!! event=>", event);
     // console.log(event.key, event.keyCode);
